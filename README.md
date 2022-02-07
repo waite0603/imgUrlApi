@@ -80,9 +80,9 @@
     ```
     { "msg": "上传图片成功", "status": "200"}`
     ```
-  
 
-  
+
+> 代码未完善, 不传参 pageNum, pageSize 不会有返回值, 且在后端会报错
 ### 获取图片
 + 请求路径: http://waite.mingol.cn/picture/pictures
 + 请求方式: 'POST', 'GET'
